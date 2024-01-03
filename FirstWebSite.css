@@ -1,0 +1,16 @@
+.dressup{
+    /* background-color: aliceblue; */
+    /* width: 50%; */
+    display:flex;
+    justify-content: center;
+}
+.for-sexy{
+    color: green;
+    height: 200px;
+    /* width: 300px; */
+    background-color: aqua;
+    padding: 120px;
+    border: 20px solid rgb(61, 249, 249);
+    border-radius: 20px;
+    box-shadow: 20px 20px 50px lightblue;
+}
